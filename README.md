@@ -1,4 +1,4 @@
-Copyright (c) 2024 Alex Daniel @ https://github.com/A13xTheITGuy
+Copyright (c) 2025 Alex Daniel @ https://github.com/A13xTheITGuy
 
 # Proiect-AC-Operatia-AND-16-biti-IS-Anul-2
 
