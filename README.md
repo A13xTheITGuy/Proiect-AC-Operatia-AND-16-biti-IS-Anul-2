@@ -2,10 +2,10 @@ Copyright (c) 2025 Alex Daniel @ https://github.com/A13xTheITGuy
 
 # Proiect AC Operatia AND 16 biti IS Anul 2
 
-  Acest circuit face operatia de "si" intre doua numere de 16 biti fiecare. Circuitul are 4 cicluri de tact, operatia "si" fiind finalizata la finalul celor patru tacte, iar ulterior se genereaza urmatoarele doua numere pe care le vom folosi pentru urmatoarea operatie, si tot asa.
-  Circuitul este foarte complex, avand un numar mare de componente folosite (Registre de memorie, Selectori de date, Word Generator-uri, Decodificator, Numarator pe 4 biti etc.).
-  De asemenea, circuitul are mai multe switch-uri precum: MEM Chip Select Mode, MEM ACTIVE, MEM Mode, CLK ACTIVE.
-    
-  MEM Mode
-  - Daca avem MEM Mode = 0 / LOW , atunci la urmatoarea operatie primul si al doilea numar vor fi cele generate de Word Generate-uri.
-  - Daca avem MEM Mode = 1 / HIGH , atunci la urmatoarea operatie primul numar va fi rezultatul operatiei initiale ( rezultatul operatiei setului anterior ) si al doilea numar va fi numarul generat de Word Generater-ul pentru al doilea numar.
+  Acest circuit efectuează operația „ȘI” între două numere de 16 biți fiecare. Circuitul are 4 cicluri de tact, iar operația „ȘI” este finalizată la sfârșitul celor patru tacte. După aceasta, se generează următoarele două numere care vor fi utilizate pentru operația următoare, iar procesul continuă astfel.
+  Circuitul este foarte complex, având un număr mare de componente, cum ar fi: registre de memorie, selectoare de date, generatoare de cuvinte (Word Generators), decodificatoare, numărător pe 4 biți etc. De asemenea, circuitul include mai multe switch-uri, precum: MEM Chip Select Mode, MEM ACTIVE, MEM Mode, CLK ACTIVE.
+
+MEM Mode
+
+- Dacă MEM Mode = 0 / LOW, atunci la următoarea operație, primul și al doilea număr vor fi cele generate de generatoarele de cuvinte.
+- Dacă MEM Mode = 1 / HIGH, atunci la următoarea operație, primul număr va fi rezultatul operației anterioare (rezultatul setului anterior), iar al doilea număr va fi generat de Word Generator pentru al doilea număr.
