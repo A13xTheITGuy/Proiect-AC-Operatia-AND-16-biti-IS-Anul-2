@@ -1,6 +1,6 @@
 Copyright (c) 2025 Alex Daniel @ https://github.com/A13xTheITGuy
 
-# Proiect-AC-Operatia-AND-16-biti-IS-Anul-2
+# Proiect AC Operatia AND 16 biti IS Anul 2
 
   Acest circuit face operatia de "si" intre doua numere de 16 biti fiecare. Circuitul are 4 cicluri de tact, operatia "si" fiind finalizata la finalul celor patru tacte, iar ulterior se genereaza urmatoarele doua numere pe care le vom folosi pentru urmatoarea operatie, si tot asa.
   Circuitul este foarte complex, avand un numar mare de componente folosite (Registre de memorie, Selectori de date, Word Generator-uri, Decodificator, Numarator pe 4 biti etc.).
